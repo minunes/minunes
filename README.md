@@ -1,0 +1,2 @@
+- Hello, I’m @minunes
+- Hoping to enter school 42 in Lisbon and currently working on their piscine program
